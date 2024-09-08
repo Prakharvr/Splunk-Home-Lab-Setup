@@ -1,5 +1,8 @@
 # Splunk Home Lab Setup
 
+![Splunk](https://i.pinimg.com/564x/5e/20/4b/5e204b9ede454a0e12a40c1cbe4c28ef.jpg)
+
+
 ## Overview
 This guide will walk you through the process of setting up a Splunk Home Lab environment for practicing incident investigations, particularly focusing on brute force attack detection and analyzing logs from various services like DNS, FTP, HTTP, SSH, and more. The lab will include setting up Splunk, configuring log sources, and performing an investigation.
 
